@@ -13,4 +13,4 @@ Features:
 - URL state management
 - Postgres DB and file uploads to Vercel Blob
 - Auto-save hook
-- & more.
+- & more!
